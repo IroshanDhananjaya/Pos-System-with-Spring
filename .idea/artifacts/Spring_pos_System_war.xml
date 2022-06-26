@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Spring_pos_System:war">
+    <output-path>$PROJECT_DIR$/01_Spring_Back_End/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Spring_pos_System</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Spring_pos_System-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Spring_pos_System:war exploded" />
+    </root>
+  </artifact>
+</component>
